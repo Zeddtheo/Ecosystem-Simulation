@@ -1,0 +1,10 @@
+release/main.o
+release/animal.o
+release/grid.o
+release/ground.o
+release/plant.o
+release/princ.o
+release/glarea.o
+release/qrc_ecosystem.o
+release/moc_princ.o
+release/moc_glarea.o

@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>textures/puff.png</file>
+        <file>textures/puffs.png</file>
+        <file>textures/ground.jpg</file>
+        <file>shaders/grid.frag</file>
+        <file>shaders/grid.vert</file>
+        <file>shaders/plant.frag</file>
+        <file>shaders/plant.vert</file>
+        <file>shaders/animal.frag</file>
+        <file>shaders/animal.vert</file>
+    </qresource>
+</RCC>

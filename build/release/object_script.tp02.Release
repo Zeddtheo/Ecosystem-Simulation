@@ -1,0 +1,11 @@
+release/main.o
+release/banc.o
+release/obstacle.o
+release/poisson.o
+release/predateur.o
+release/princ.o
+release/glarea.o
+release/quadtree.o
+release/qrc_tp02.o
+release/moc_princ.o
+release/moc_glarea.o
